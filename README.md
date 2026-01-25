@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi 👋 I'm Md. Omer Faruq
 
-<!--
-**mdOmerfaruq/mdOmerfaruq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student at United International University  
+🤖 Interested in AI, Machine Learning, DBMS & Web Development  
+🔬 Researcher  
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- Programming: C, Java, Python, PHP  
+- Web: HTML, CSS, JavaScript, React  
+- Database: MySQL, PostgreSQL  
+- Tools: Git, GitHub, VS Code, IntelliJ  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact
+- Email: mfaruq212033@bscse.uiu.ac.bd
