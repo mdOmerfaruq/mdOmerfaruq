@@ -1,40 +1,4 @@
-**# Hi, I'm Md. Omer Faruq 👋
-
-🎓 CSE Graduate from United International University (UIU)
-
-🔬 Research Interests:
-- Artificial Intelligence
-- Machine Learning
-- Software Engineering
-- Data Mining
-- Intelligent Systems
-
-📚 Research Experience:
-- Research Assistant at UIU
-- ICTIS 2025 International Conference Presenter
-- Springer Conference Publication  1st Author
-
-💻 Technical Skills:
-- Python
-- JavaScript
-- PHP
-- .NET
-- MySQL
-- HTML/CSS
-
-🚀 Projects:
-- AI-Based Student Clustering System
-- Energy Efficient Software Optimization
-- Event Management System
-- Student Loan & Crowdfunding Platform
-- Hostel management system
-- Recycling & nonrecycling  automated  robtic  arms
-- Smart city management System
-- Ask me
-- Hospital service providers
-
-📫 Contact:
-- Email: mfaruq212033@gmail.com**# Hi, I'm Md. Omer Faruq 👋
+# Hi, I'm Md. Omer Faruq 👋
 
 🎓 Computer Science & Engineering Graduate
 Major in Software Engineering
@@ -117,7 +81,7 @@ United International University (UIU), Bangladesh
 
 📫 Contact
 
-* Email: [mfaruq212033@gmail.com](mailto:mfaruq212033@gmail.com)
+* Email: mfaruq212033@gmail.com
 * GitHub: https://github.com/mdomerfaruq
 
 ⭐ Always interested in research collaboration, innovative projects, and intelligent system development.
