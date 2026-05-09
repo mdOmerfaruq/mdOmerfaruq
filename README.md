@@ -5,10 +5,10 @@
 🔬 Researcher  
 
 ### 🛠 Skills
-- Programming: C, Java, Python, PHP  
+- Programming: C#, .NET, Java, Python, PHP  
 - Web: HTML, CSS, JavaScript, React  
 - Database: MySQL, PostgreSQL  
 - Tools: Git, GitHub, VS Code, IntelliJ  
 
 ### 📫 Contact
-- Email: mfaruq212033@bscse.uiu.ac.bd
+- Email: mfaruq212033@gmail.com
