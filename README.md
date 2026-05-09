@@ -89,3 +89,41 @@ Redesigned and enhanced a university Human Resource Management System with impro
 * GitHub: https://github.com/mdomerfaruq
 
 ⭐ Passionate about research, intelligent systems, software engineering, and innovative technology development.
+
+
+## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-mdomerfaruq-black?style=for-the-badge\&logo=github)](https://github.com/mdomerfaruq)
+
+[![Gmail](https://img.shields.io/badge/Gmail-mfaruq212033%40gmail.com-red?style=for-the-badge\&logo=gmail)](mailto:mfaruq212033@gmail.com)
+
+---
+
+## 📊 GitHub Statistics
+
+* 🔭 Currently working on Enterprise Software Engineering & AI-Based Systems
+* 🌱 Learning Advanced Machine Learning & Intelligent Automation
+* 👨‍💻 Focused on Full-Stack Development and Research-Oriented Projects
+* 🎯 Goal: Contribute to AI Research and Intelligent Software Solutions
+* ⚡ Interested in innovative technologies, research collaboration, and scalable systems
+
+---
+
+## 📌 Featured Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge\&logo=.net\&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+---
+
+## 🚀 Profile Vision
+
+Building intelligent, research-oriented, and enterprise-level software systems that solve real-world problems through innovation, automation, and data-driven technologies.
+
