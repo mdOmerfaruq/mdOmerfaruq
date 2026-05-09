@@ -13,13 +13,13 @@ United International University (UIU), Bangladesh
 * Intelligent Systems
 * Energy-Efficient Computing
 
-📚 Research Experience
+📚 Research & Academic Experience
 
 * Research Assistant at United International University (UIU)
 * Presenter at ICTIS 2025 International Conference
 * 1st Author of Springer Conference Publication
 * Research on ML-Based Smart Healthcare Security Systems
-* Research on Energy-Efficient Software Development
+* Research on Energy-Efficient Software Development Through Algorithm Optimization
 
 💻 Technical Skills
 
@@ -31,16 +31,16 @@ United International University (UIU), Bangladesh
 * C++
 * .NET
 
-### Web Technologies
+### Web & Software Technologies
 
 * HTML
 * CSS
 * JavaScript
 * ASP.NET
-
-### Database & Tools
-
 * MySQL
+
+### Development Tools
+
 * Git & GitHub
 * XAMPP
 * VS Code
@@ -55,13 +55,17 @@ United International University (UIU), Bangladesh
 * Smart City Management System
 * Recycling & Non-Recycling Automated Robotic Arms
 
-### Software Engineering Projects
+### Enterprise & Software Engineering Projects
 
+* University HR Management System Redesign
 * Event Management System
 * Student Loan & Crowdfunding Platform
 * Hostel Management System
 * Hospital Service Providers Platform
 * AskMe Communication Platform
+
+📌 University HR Management System Redesign
+Redesigned and enhanced a university Human Resource Management System with improved workflow automation, employee management, multi-step approval processing, database optimization, and modern user interface enhancements.
 
 📈 Current Focus
 
@@ -84,4 +88,4 @@ United International University (UIU), Bangladesh
 * Email: mfaruq212033@gmail.com
 * GitHub: https://github.com/mdomerfaruq
 
-⭐ Always interested in research collaboration, innovative projects, and intelligent system development.
+⭐ Passionate about research, intelligent systems, software engineering, and innovative technology development.
