@@ -8,6 +8,10 @@ United International University (UIU), Bangladesh
 
 * Artificial Intelligence
 * Machine Learning
+* Robotics
+* Computer Vision
+* Human-Computer Interaction (HCI)
+* Human-Robot Interaction (HRI)
 * Software Engineering
 * Data Mining
 * Intelligent Systems
@@ -20,7 +24,24 @@ United International University (UIU), Bangladesh
 * 1st Author of Springer Conference Publication
 * Research on ML-Based Smart Healthcare Security Systems
 * Research on Energy-Efficient Software Development Through Algorithm Optimization
+* Research on Human–Computer Interaction (HCI) and Human–Robot Interaction (HRI)
+* AI-Based Robotics and Intelligent Automation Research
+* Computer Vision using YOLOv8
 
+
+### AI, Robotics & Computer Vision
+
+* YOLOv8
+* OpenCV
+* Arduino
+* Embedded Systems
+* Computer Vision
+* Robotics
+* Sensor Integration
+* Servo Motor Control
+* Human-Robot Interaction (HRI)
+
+  
 💻 Technical Skills
 
 ### Programming Languages
@@ -53,7 +74,9 @@ United International University (UIU), Bangladesh
 * AI-Based Student Clustering System
 * Energy Efficient Software Optimization
 * Smart City Management System
-* Recycling & Non-Recycling Automated Robotic Arms
+* Recycling & Non-Recycling Automated Robotic Arms and AI-Based Recycling & Non-Recycling Automated Robotic Arms (YOLOv8)
+* Human–Computer Interaction (HCI) Research Project
+* Human–Robot Interaction (HRI) Research Project
 
 ### Enterprise & Software Engineering Projects
 
@@ -67,6 +90,12 @@ United International University (UIU), Bangladesh
 📌 University HR Management System Redesign
 Redesigned and enhanced a university Human Resource Management System with improved workflow automation, employee management, multi-step approval processing, database optimization, and modern user interface enhancements.
 
+📌 AI-Based Recycling & Non-Recycling Automated Robotic Arms
+Developed an AI-powered robotic arm capable of detecting and sorting recyclable and non-recyclable waste using YOLOv8 computer vision. Integrated Arduino Uno, servo motors, and real-time object detection to automate intelligent waste classification and robotic manipulation.
+
+📌 Human–Robot Interaction (HRI) Research
+Research focused on improving trust, transparency, and collaboration between humans and intelligent robotic systems through AI-driven interaction models and user-centric system design.
+
 📈 Current Focus
 
 * Machine Learning Research
@@ -74,6 +103,11 @@ Redesigned and enhanced a university Human Resource Management System with impro
 * AI-Based Automation
 * Full-Stack Software Development
 * Research-Oriented System Design
+*  Robotics Research
+* Computer Vision
+* Human–Robot Interaction
+* Intelligent Healthcare Security Systems
+* Embedded AI Systems
 
 🏆 Achievements
 
@@ -82,6 +116,8 @@ Redesigned and enhanced a university Human Resource Management System with impro
 * Research Assistant under UIU Research Grant
 * 2nd Runner-Up Award Winner
 * Software Development Internship Completion
+* AI Robotics Research and Development
+* Computer Vision Project Development using YOLOv8
 
 📫 Contact
 
@@ -107,7 +143,21 @@ Redesigned and enhanced a university Human Resource Management System with impro
 * 🎯 Goal: Contribute to AI Research and Intelligent Software Solutions
 * ⚡ Interested in innovative technologies, research collaboration, and scalable systems
 
----
+## 📄 Research Publications
+
+### Energy Efficient Software Development Through Algorithm Optimization
+- Springer Conference Proceedings
+- ICTIS 2025 International Conference
+- First Author
+- Presented at Cornell University, New York, USA
+
+### Ongoing Research
+- ML-Based Cross-Tier Data Security for Wireless Body Area Networks (WBANs)
+- Human–Computer Interaction (HCI)
+- Human–Robot Interaction (HRI)
+- AI-Based Robotics and Intelligent Automation
+
+ ---
 
 ## 📌 Featured Technologies
 
@@ -125,5 +175,4 @@ Redesigned and enhanced a university Human Resource Management System with impro
 
 ## 🚀 Profile Vision
 
-Building intelligent, research-oriented, and enterprise-level software systems that solve real-world problems through innovation, automation, and data-driven technologies.
-
+Building intelligent, research-oriented, and enterprise-level software systems that solve real-world problems through innovation, automation, and data-driven technologies. Expanding research in Artificial Intelligence, Robotics, Computer Vision, and Human–Robot Interaction to develop intelligent autonomous systems with real-world impact.
