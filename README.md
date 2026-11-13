@@ -153,6 +153,7 @@ Contributing to a research project investigating digital addiction and technolog
 * React
 * PHP
 * .NET
+* Next.js
 * REST APIs
 
 ### AI, Machine Learning & Data Science
