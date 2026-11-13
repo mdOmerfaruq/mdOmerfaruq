@@ -359,26 +359,6 @@ Developed a platform designed to connect students seeking financial support with
 
 ---
 
-## 📊 GitHub Statistics
-
-* 🔭 Currently working on Enterprise Software Engineering & AI-Based Systems
-* 🌱 Learning Advanced Machine Learning & Intelligent Automation
-* 👨‍💻 Focused on Full-Stack Development and Research-Oriented Projects
-* 🎯 Goal: Contribute to AI Research and Intelligent Software Solutions
-* ⚡ Interested in innovative technologies, research collaboration, and scalable systems
-
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdOmerfaruq&show_icons=true&theme=tokyonight)
-
-### Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdOmerfaruq&layout=compact&theme=tokyonight)
-
-### GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mdOmerfaruq&theme=tokyonight)
----
 
 ## 📌 Featured Technologies
 
