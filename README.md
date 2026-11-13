@@ -1,178 +1,275 @@
-# Hi, I'm Md. Omer Faruq 👋
+# 👋 Hi, I'm Md. Omer Faruq
 
-🎓 Computer Science & Engineering Graduate
-Major in Software Engineering
-United International University (UIU), Bangladesh
+### Research Assistant | Software Engineer | AI & Machine Learning Enthusiast
 
-🔬 Research Interests
+I am a Computer Science and Engineering graduate from **United International University (UIU), Bangladesh**, with a major in Software Engineering. I am currently working as a **Research Assistant at UIU**, contributing to university-funded research projects in Artificial Intelligence, Healthcare Informatics, Environmental Data Analysis, and Software Development.
 
-* Artificial Intelligence
-* Machine Learning
-* Robotics
-* Computer Vision
-* Human-Computer Interaction (HCI)
-* Human-Robot Interaction (HRI)
-* Software Engineering
-* Data Mining
-* Intelligent Systems
-* Energy-Efficient Computing
+My interests include Artificial Intelligence, Machine Learning, Software Engineering, Robotics, Computer Vision, and intelligent software solutions. I enjoy combining research and practical software development to solve real-world problems.
 
-📚 Research & Academic Experience
+---
 
-* Research Assistant at United International University (UIU)
-* Presenter at ICTIS 2025 International Conference
-* 1st Author of Springer Conference Publication
-* Research on ML-Based Smart Healthcare Security Systems
-* Research on Energy-Efficient Software Development Through Algorithm Optimization
-* Research on Human–Computer Interaction (HCI) and Human–Robot Interaction (HRI)
-* AI-Based Robotics and Intelligent Automation Research
-* Computer Vision using YOLOv8
+## 🔬 Research Experience & Funded Research Projects
 
+Currently working as a **Research Assistant at United International University (UIU)**, contributing to funded research projects involving Artificial Intelligence, Machine Learning, Healthcare Informatics, Software Engineering, environmental data analysis, and intelligent systems.
 
-### AI, Robotics & Computer Vision
+### 🌊 1. AI-Based Flood Forecasting Research
 
-* YOLOv8
-* OpenCV
-* Arduino
-* Embedded Systems
-* Computer Vision
-* Robotics
-* Sensor Integration
-* Servo Motor Control
-* Human-Robot Interaction (HRI)
+**Research Area:** Artificial Intelligence, Machine Learning, Environmental Data Analysis, and Predictive Analytics.
 
-  
-💻 Technical Skills
+Contributing to a funded research project focused on developing intelligent flood forecasting approaches using historical rainfall, river water-level, and environmental datasets.
+
+**Research Focus:**
+- Machine Learning-based flood forecasting
+- Rainfall data analysis and prediction
+- River water-level monitoring
+- Upstream and downstream river data integration
+- Bangladesh and neighboring Indian regional rainfall analysis
+- Multi-source environmental dataset integration
+- Historical hydrological data analysis
+- Predictive modeling for flood forecasting
+
+**Data Sources & Technologies:**
+- India Meteorological Department (IMD)
+- NASA GPM IMERG
+- Bangladesh rainfall datasets
+- Bangladesh river water-level datasets
+- Python, Pandas, NumPy, Xarray
+- Machine Learning
+
+### 🏥 2. Healthcare Informatics & Software-Based Research
+
+**Research Area:** Healthcare Informatics, Software Engineering, Artificial Intelligence, and Digital Health Solutions.
+
+Contributing to a funded research project focused on healthcare informatics and software-based solutions. The research explores how software technologies and intelligent systems can support healthcare-related information management, data analysis, and digital healthcare services.
+
+**Research Focus:**
+- Healthcare information systems
+- Software-based healthcare solutions
+- Digital health and intelligent applications
+- Healthcare data management and analysis
+- Exploring AI and Machine Learning applications in healthcare
+- Software design and development for healthcare-related problems
+
+**Technologies & Tools:**
+- Python
+- Software Engineering
+- Database Management
+- Data Analysis
+- Artificial Intelligence and Machine Learning
+- Web Technologies
+
+### 📱 3. Digital Addiction Research
+
+**Research Area:** Digital Behavior, Technology Usage, Data Analysis, and Human-Computer Interaction.
+
+Contributing to a research project investigating digital addiction and technology usage behavior among university students.
+
+**Research Focus:**
+- Digital addiction among university students
+- Smartphone and internet usage behavior
+- Digital habits and technology dependency
+- Questionnaire design and data collection
+- Research literature review
+- Data analysis and interpretation
+- Understanding the impact of digital technology on students
+
+---
+
+## 📚 Publications & Research Contributions
+
+### 📄 Energy-Efficient Software Development Through Algorithm Optimization
+
+- **Publication:** Springer Conference Proceedings
+- **Conference:** ICTIS 2025
+- **Role:** First Author and Oral Presenter
+- **Presentation:** Cornell University, New York, USA
+
+**Research Focus:**
+- Energy-efficient software development
+- Algorithm optimization
+- Software performance analysis
+- Green computing
+- Reducing computational resource consumption
+
+---
+
+## 🧠 Research Interests
+
+- Artificial Intelligence (AI)
+- Machine Learning (ML) and Deep Learning (DL)
+- Large Language Models (LLMs)
+- Prompt Engineering and LLM-Based Applications
+- Retrieval-Augmented Generation (RAG)
+- AI-Powered Software Solutions
+- Healthcare Informatics
+- Flood Forecasting and Predictive Analytics
+- Computer Vision
+- Robotics and Intelligent Automation
+- Human-Computer Interaction (HCI)
+- Human-Robot Interaction (HRI)
+- Software Engineering
+- Data Mining and Intelligent Systems
+- Energy-Efficient Computing
+
+### 🤖 Exploring Large Language Models (LLMs)
+
+I am interested in exploring **Large Language Models (LLMs)** and their applications in real-world problem-solving. My learning interests include prompt engineering, LLM-based applications, Retrieval-Augmented Generation (RAG), AI-powered automation, and integrating language models into intelligent software systems.
+
+I am continuously exploring how LLMs can support research, software development, automation, and smarter user experiences.
+
+---
+
+## 💻 Technical Skills
 
 ### Programming Languages
+- Python
+- C
+- C++
+- C#
+- JavaScript
+- PHP
+- Java
 
-* Python
-* JavaScript
-* PHP
-* C++
-* .NET
+### Web & Software Development
+- HTML5
+- CSS3
+- JavaScript
+- React
+- ASP.NET
+- PHP
+- .NET
+- REST APIs
 
-### Web & Software Technologies
+### AI, Machine Learning & Data Science
+- Machine Learning
+- Deep Learning
+- Scikit-learn
+- Pandas
+- NumPy
+- SciPy
+- Xarray
+- YOLOv8
+- OpenCV
+- Data Analysis
+- Predictive Modeling
 
-* HTML
-* CSS
-* JavaScript
-* ASP.NET
-* MySQL
+### LLM & Generative AI
+- Large Language Models (LLMs)
+- Prompt Engineering
+- LLM-Based Applications
+- Retrieval-Augmented Generation (RAG) — Learning and Exploration
 
-### Development Tools
+### Database & Development Tools
+- MySQL
+- SQL Server
+- Git & GitHub
+- VS Code
+- Visual Studio
+- XAMPP
+- Postman
+- Overleaf
 
-* Git & GitHub
-* XAMPP
-* VS Code
-* Overleaf
+### Robotics & Embedded Systems
+- Arduino
+- Embedded Systems
+- Sensor Integration
+- Servo Motor Control
+- Computer Vision-Based Automation
 
-🚀 Featured Projects
+---
 
-### AI & Research Projects
+## 🚀 Featured Software Development Projects
 
-* AI-Based Student Clustering System
-* Energy Efficient Software Optimization
-* Smart City Management System
-* Recycling & Non-Recycling Automated Robotic Arms and AI-Based Recycling & Non-Recycling Automated Robotic Arms (YOLOv8)
-* Human–Computer Interaction (HCI) Research Project
-* Human–Robot Interaction (HRI) Research Project
+### 🍔 UniBites – University Food Ordering & Campus Delivery Platform
+A web-based platform designed to simplify food ordering and campus delivery services within a university environment.
 
-### Enterprise & Software Engineering Projects
+**Technologies:** PHP, MySQL, HTML, CSS, JavaScript
 
-* University HR Management System Redesign
-* Event Management System
-* Student Loan & Crowdfunding Platform
-* Hostel Management System
-* Hospital Service Providers Platform
-* AskMe Communication Platform
+### 🏢 UniNest – University Hostel Management System
+A web-based hostel management platform designed to manage student applications, room allocation, payments, complaints, and administrative activities.
 
-📌 University HR Management System Redesign
-Redesigned and enhanced a university Human Resource Management System with improved workflow automation, employee management, multi-step approval processing, database optimization, and modern user interface enhancements.
+**Technologies:** PHP, MySQL, HTML, CSS, JavaScript
 
-📌 AI-Based Recycling & Non-Recycling Automated Robotic Arms
-Developed an AI-powered robotic arm capable of detecting and sorting recyclable and non-recyclable waste using YOLOv8 computer vision. Integrated Arduino Uno, servo motors, and real-time object detection to automate intelligent waste classification and robotic manipulation.
+### 🎓 Event Management System
+A university event management platform for managing events, registrations, faculty requests, speakers, feedback, notifications, and communication.
 
-📌 Human–Robot Interaction (HRI) Research
-Research focused on improving trust, transparency, and collaboration between humans and intelligent robotic systems through AI-driven interaction models and user-centric system design.
+**Technologies:** PHP, MySQL, JavaScript, HTML, CSS
 
-📈 Current Focus
+### 💰 Student Loan & Crowdfunding Platform
+A platform designed to connect students seeking financial support with potential contributors through loan requests, loan offers, campaigns, and donations.
 
-* Machine Learning Research
-* Intelligent Software Systems
-* AI-Based Automation
-* Full-Stack Software Development
-* Research-Oriented System Design
-*  Robotics Research
-* Computer Vision
-* Human–Robot Interaction
-* Intelligent Healthcare Security Systems
-* Embedded AI Systems
+**Technologies:** PHP, MySQL, HTML, CSS, JavaScript
 
-🏆 Achievements
+### 👨‍💼 HR Management System UI
+A human resource management system interface developed to support HR-related workflows and management activities.
 
-* ICTIS 2025 International Conference Presenter
-* Springer Conference Publication (1st Author)
-* Research Assistant under UIU Research Grant
-* 2nd Runner-Up Award Winner
-* Software Development Internship Completion
-* AI Robotics Research and Development
-* Computer Vision Project Development using YOLOv8
+**Technologies:** C#, ASP.NET, HTML, CSS, JavaScript
 
-📫 Contact
+---
 
-* Email: mfaruq212033@gmail.com
-* GitHub: https://github.com/mdomerfaruq
+## 🤖 Robotics, AI & Intelligent Systems Projects
 
-⭐ Passionate about research, intelligent systems, software engineering, and innovative technology development.
+### ♻️ Recycling & Non-Recycling Automated Robotic Arm
+An intelligent robotic system designed to identify and classify recyclable and non-recyclable objects using computer vision.
 
+**Technologies:** Python, YOLOv8, OpenCV, Robotics
 
-## 🌐 Connect With Me
+### 🏙️ Smart City Management System
+A software-based project exploring intelligent solutions for smart city services and management.
 
-[![GitHub](https://img.shields.io/badge/GitHub-mdomerfaruq-black?style=for-the-badge\&logo=github)](https://github.com/mdomerfaruq)
+### 🧑‍🎓 AI-Based Student Clustering System
+A machine learning-based project focused on analyzing student data and identifying meaningful student groups using clustering techniques.
 
-[![Gmail](https://img.shields.io/badge/Gmail-mfaruq212033%40gmail.com-red?style=for-the-badge\&logo=gmail)](mailto:mfaruq212033@gmail.com)
+### 🏥 Smart Healthcare Security Systems
+Exploring machine learning-based approaches for improving security and intelligent data management in healthcare environments.
+
+---
+
+## 🏆 Achievements & Professional Experience
+
+- 🥇 First Author and Oral Presenter at ICTIS 2025.
+- 📚 Research publication in Springer Conference Proceedings.
+- 🔬 Research Assistant at United International University (UIU).
+- 🌊 Contributing to a university-funded AI-based flood forecasting research project.
+- 🏥 Contributing to funded healthcare informatics and software-based research.
+- 🤖 Experience with robotics and computer vision-based projects.
+- 💼 Completed Software Development Internship at EduSoft Consultants Limited (ESCL).
+- 🏅 2nd Runner-Up Award Winner.
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+- Advanced Machine Learning and Deep Learning
+- Large Language Models and Generative AI
+- Prompt Engineering and RAG
+- AI-Powered Software Development
+- Healthcare Informatics
+- Intelligent Robotics and Automation
+- Research Methodology and Scientific Publications
 
 ---
 
 ## 📊 GitHub Statistics
 
-* 🔭 Currently working on Enterprise Software Engineering & AI-Based Systems
-* 🌱 Learning Advanced Machine Learning & Intelligent Automation
-* 👨‍💻 Focused on Full-Stack Development and Research-Oriented Projects
-* 🎯 Goal: Contribute to AI Research and Intelligent Software Solutions
-* ⚡ Interested in innovative technologies, research collaboration, and scalable systems
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdOmerfaruq&show_icons=true&theme=tokyonight)
 
-## 📄 Research Publications
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdOmerfaruq&layout=compact&theme=tokyonight)
 
-### Energy Efficient Software Development Through Algorithm Optimization
-- Springer Conference Proceedings
-- ICTIS 2025 International Conference
-- First Author
-- Presented at Cornell University, New York, USA
-
-### Ongoing Research
-- ML-Based Cross-Tier Data Security for Wireless Body Area Networks (WBANs)
-- Human–Computer Interaction (HCI)
-- Human–Robot Interaction (HRI)
-- AI-Based Robotics and Intelligent Automation
-
- ---
-
-## 📌 Featured Technologies
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge\&logo=.net\&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![GitHub Streak](https://streak-stats.demolab.com?user=mdOmerfaruq&theme=tokyonight)
 
 ---
 
-## 🚀 Profile Vision
+## 📫 Connect With Me
 
-Building intelligent, research-oriented, and enterprise-level software systems that solve real-world problems through innovation, automation, and data-driven technologies. Expanding research in Artificial Intelligence, Robotics, Computer Vision, and Human–Robot Interaction to develop intelligent autonomous systems with real-world impact.
+- **GitHub:** [github.com/mdOmerfaruq](https://github.com/mdOmerfaruq)
+- **Portfolio:** [mdomerfaruq.vercel.app](https://mdomerfaruq.vercel.app/)
+- **Email:** [mfaruq212033@gmail.com](mailto:mfaruq212033@gmail.com)
+
+---
+
+### 💡 My Vision
+
+To contribute to impactful research and develop innovative software solutions by combining Artificial Intelligence, Machine Learning, Software Engineering, and emerging technologies.
+
+**Research | Innovation | Software Development | Intelligent Systems**
